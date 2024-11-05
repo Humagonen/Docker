@@ -9,7 +9,7 @@ Make sure you have the files needed for the project:
 
 - app.py
 - requirements.txt
-- other files that is used in the app (model.h5, tokenizer….)
+- other files that are used in the app (model, tokenizer, scaler, etc….)
 
 ---
 
@@ -25,7 +25,7 @@ Create an instance:
 - Click “launch instance” and complete the sections:
 - Give your instance a name
 - Choose a machine (e.g. Windows, MAC, Ubuntu…)
-- Create a new key pair for ssh connection (name it as you wish, RSA, .pem file)
+- Create a new key pair for SSH connection (name it as you wish, RSA, .pem file)
 - .pem file will automatically be downloaded
 - Network settings
     - SSH(automatically selected)
