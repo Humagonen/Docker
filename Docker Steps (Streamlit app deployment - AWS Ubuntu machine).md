@@ -33,11 +33,13 @@ Create an instance:
     - SSH(automatically selected)
     - Add streamlit port: Click edit → Add security group rule → change source type to anywhere and enter the port range for streamlit (8501)
     
-    ![image 1](C:\Users\humag\AppData\Local\Temp\e56e1f96-e83a-4542-94c3-b91c4e11be26_0bcec7b3-dcd7-40ae-8079-d705458c7ffe_Export-fd738eb2-c2e8-4a2f-8ac0-587c5618151e.zip.e26\image 1.png)
+    ![image 1](https://github.com/user-attachments/assets/b0b22179-e42f-41a4-8fb4-38a570d4d651)
+
     
 - Configure storage: up to 30 GiB is free, we will make it 20
   
-    ![image 2](C:\Users\humag\AppData\Local\Temp\2e3d4cf2-ddb3-4208-bab3-caaa444a07d8_0bcec7b3-dcd7-40ae-8079-d705458c7ffe_Export-fd738eb2-c2e8-4a2f-8ac0-587c5618151e.zip.7d8\image 2.png)
+    ![image 2](https://github.com/user-attachments/assets/777cd3bc-b4f2-4ccd-8faa-6832a05d6cef)
+
     
 - Lastly, Click “Launch Instance”
 
@@ -58,21 +60,25 @@ Log into the AWS management console and create an EC2 instance with the followin
 
 Before starting, make sure Remote - SSH is installed in your VSCode:
 
-![image 3](C:\Users\humag\AppData\Local\Temp\36e9bb82-efbf-401c-b5cc-50094a5ce86a_0bcec7b3-dcd7-40ae-8079-d705458c7ffe_Export-fd738eb2-c2e8-4a2f-8ac0-587c5618151e.zip.86a\image 3.png)
+![image 3](https://github.com/user-attachments/assets/fd0c02b3-fac4-4fb4-9601-39815623ef53)
+
 
 1. Go to VSCode
 
-![image 4](C:\Users\humag\AppData\Local\Temp\c6f2184e-9a6e-4c38-8bfc-e90213d4fdff_0bcec7b3-dcd7-40ae-8079-d705458c7ffe_Export-fd738eb2-c2e8-4a2f-8ac0-587c5618151e.zip.dff\image 4.png)
+![image 4](https://github.com/user-attachments/assets/ed36f111-9433-4656-86a3-e39400b903b6)
+
 
 1. click the blue icon in the bottom left corner (Open a remote window)
 2. Connect to Host…
 3. Configure SSH Hosts…
 
-![image 5](C:\Users\humag\AppData\Local\Temp\f9e46322-2670-468c-9c18-6925898fdc19_0bcec7b3-dcd7-40ae-8079-d705458c7ffe_Export-fd738eb2-c2e8-4a2f-8ac0-587c5618151e.zip.c19\image 5.png)
+![image 5](https://github.com/user-attachments/assets/409f4b35-6260-4a62-a8b9-76174882482d)
+
 
 1. Click ..ssh\config option
 
-![image 6](C:\Users\humag\AppData\Local\Temp\22047f8b-d0bc-404f-be87-af77427d831d_0bcec7b3-dcd7-40ae-8079-d705458c7ffe_Export-fd738eb2-c2e8-4a2f-8ac0-587c5618151e.zip.31d\image 6.png)
+![image 6](https://github.com/user-attachments/assets/6c4a86ca-cc0e-4f8b-8cc3-634a030512c0)
+
 
 1. You should see a config file opened
 2. Now paste these into that config file (you do not have to delete anything, just add):
