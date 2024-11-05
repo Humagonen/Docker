@@ -69,10 +69,6 @@ Before starting, make sure Remote - SSH is installed in your VSCode:
 2. click the blue icon in the bottom left corner (Open a remote window)
 3. Connect to Host…
 4. Configure SSH Hosts…
-
-![image 5](https://github.com/user-attachments/assets/409f4b35-6260-4a62-a8b9-76174882482d)
-
-
 5. Click ..ssh\config option
 
 ![image 6](https://github.com/user-attachments/assets/6c4a86ca-cc0e-4f8b-8cc3-634a030512c0)
@@ -100,8 +96,8 @@ Host Myawsdocker
 ssh -i "your-key.pem" ubuntu@<EC2_PUBLIC_IP>
 ```
 
-1. Again, click open a remote window from the bottom corner → Connect to Host →  click the host name you previously created (in our case it is “Myawsdocker”)
-2. A new window will open and you should see the host name in the bottom left corner
+8. Again, click open a remote window from the bottom corner → Connect to Host →  click the host name you previously created (in our case it is “Myawsdocker”)
+9. A new window will open and you should see the host name in the bottom left corner
 
 # 4. Drag your project files to the space and open terminal
 
