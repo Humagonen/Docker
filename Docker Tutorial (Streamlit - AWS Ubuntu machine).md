@@ -1,5 +1,3 @@
-# Docker Steps (Streamlit app deployment - AWS Ubuntu machine)
-
 # **Streamlit Docker Application Setup**
 
 # 1. Requirements
