@@ -21,7 +21,8 @@ Make sure you have the files needed for the project:
 
 Create an instance:
 
-![image](C:\Users\humag\AppData\Local\Temp\7ac6d5e4-57f3-4bca-98bc-006f30251324_0bcec7b3-dcd7-40ae-8079-d705458c7ffe_Export-fd738eb2-c2e8-4a2f-8ac0-587c5618151e.zip.324\image.png)
+![image](https://github.com/user-attachments/assets/2e3e5087-554b-4120-af0b-ef4b29147f76)
+
 
 - Click “launch instance” and complete the sections:
 - Give your instance a name
