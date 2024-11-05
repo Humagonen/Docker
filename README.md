@@ -66,20 +66,20 @@ Before starting, make sure Remote - SSH is installed in your VSCode:
 ![image 4](https://github.com/user-attachments/assets/ed36f111-9433-4656-86a3-e39400b903b6)
 
 
-1. click the blue icon in the bottom left corner (Open a remote window)
-2. Connect to Host…
-3. Configure SSH Hosts…
+2. click the blue icon in the bottom left corner (Open a remote window)
+3. Connect to Host…
+4. Configure SSH Hosts…
 
 ![image 5](https://github.com/user-attachments/assets/409f4b35-6260-4a62-a8b9-76174882482d)
 
 
-1. Click ..ssh\config option
+5. Click ..ssh\config option
 
 ![image 6](https://github.com/user-attachments/assets/6c4a86ca-cc0e-4f8b-8cc3-634a030512c0)
 
 
-1. You should see a config file opened
-2. Now paste these into that config file (you do not have to delete anything, just add):
+6. You should see a config file opened
+7. Now paste these into that config file (you do not have to delete anything, just add):
 
 ```markdown
 Host Myawsdocker
